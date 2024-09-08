@@ -1,6 +1,11 @@
 # 💫 About Me:
 I'm Bikash,<br><br>Welcome to my GitHub profile!<br>I'm a passionate software engineer who loves to create and innovate.<br>Here’s a glimpse into what I do and the technologies I work with.
 
+![123](https://github.com/user-attachments/assets/e9a5eebf-c325-476c-a181-a8b2cae0bec6)
+
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bkshgtm) 
