@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Bikash,<br><br>Welcome to my GitHub profile!<br>I'm a passionate software engineer who loves to create and innovate.<br>Here’s a glimpse into what I do and the technologies I work with.
+I'm Bikash,<br>**Code wizard by day, bug hunter by night. Clean code, cool apps, no drama!**
 
 ![123](https://github.com/user-attachments/assets/e9a5eebf-c325-476c-a181-a8b2cae0bec6)
 
